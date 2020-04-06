@@ -1,4 +1,4 @@
-class EtcdAT3315 < Formula
+class Etcd < Formula
   desc "Key value store for shared configuration and service discovery"
   homepage "https://github.com/etcd-io/etcd"
   url "https://github.com/etcd-io/etcd.git",
